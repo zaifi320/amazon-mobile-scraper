@@ -78,6 +78,10 @@ This method is scalable, and the code can scrape data across many pages.
 * [Selenium documentation](https://www.selenium.dev/documentation/)
 * [robots.txt documentation](https://www.robotstxt.org/)
 
+👨‍💻 Author
+Huzaifa Bin Saeed
+GitHub: https://github.com/zaifi320
+
 ## Feedback
 
 If you have suggestions or feedback to improve this project, feel free to reach out or submit an issue in the GitHub repository. We appreciate collaboration!
