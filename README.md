@@ -78,9 +78,9 @@ This method is scalable, and the code can scrape data across many pages.
 * [Selenium documentation](https://www.selenium.dev/documentation/)
 * [robots.txt documentation](https://www.robotstxt.org/)
 
-👨‍💻 Author
-Huzaifa Bin Saeed
-GitHub: https://github.com/zaifi320
+## 👨‍💻 Author
+* Huzaifa Bin Saeed
+* GitHub: https://github.com/zaifi320
 
 ## Feedback
 
