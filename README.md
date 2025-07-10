@@ -1,5 +1,16 @@
 # Amazon Phone Scraping Project
 
+This project is a Python-based web scraper that collects mobile phone data from Amazon, including:
+
+- ✅ Product Title
+- 💵 Price
+- 🔤 Brand
+- 📱 Operating System
+- 🧠 RAM, CPU Model & Speed
+- 💾 Memory Storage Capacity
+- 📐 Screen Size & Resolution
+- 📡 Wireless Carrier
+
 ## Table of Contents:
 
 * Objective
